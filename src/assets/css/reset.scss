@@ -1,0 +1,120 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video,
+textarea, input, select, button {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  vertical-align: baseline;
+  border: 0;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  font-family: var(--font-pantone);
+  line-height: 1.67;
+  color: var(--color-text-primary);
+}
+a, abbr {
+  color: inherit;
+  text-decoration: none;
+}
+a {
+  cursor: pointer;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none;
+}
+img {
+  max-width: 100%;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+textarea,
+input,
+select,
+button {
+  font-family: var(--font-pantone);
+  color: var(--color-text-primary);
+  border: 0;
+  border-radius: 0;
+  outline: none;
+  appearance: none;
+  background: transparent;
+}
+textarea,
+input,
+select {
+  font-family: var(--font-imb-plex-san);
+}
+textarea {
+  min-height: 136px; /* height of 3 lines */
+}
+select,
+button {
+  line-height: 1em;
+  cursor: pointer;
+}
+strong {
+  font-weight: var(--weight-bold);
+}
+/* HTML box-sizing: border-box; reset */
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* EMBER WRAPPER STYLES */
+.ember-application > .ember-view {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  flex-direction: column;
+  > div,
+  > header,
+  > main,
+  > footer {
+    width: 100%;
+  }
+}
+
+/* REMOVE FIREFOX INVALID BOX-SHADOW */
+select:-moz-ui-invalid,
+input:-moz-ui-invalid,
+textarea:-moz-ui-invalid {
+  box-shadow: none;
+}

@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.header__logo {
+  margin-right: auto;
+}
+
+.header__logo__img {
+  @media (max-width: 575px) {
+    width: 180px;
+  }
+  @media (min-width: 576px) {
+    width: 260px;
+  }
+}
+
+.header__link {
+  text-transform: uppercase;
+  color: var(--color-text-primary);
+  @media (min-width: 992px) {
+    padding-right: .5rem;
+    padding-left: .5rem;
+  }
+}

@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 
 const Updates = (props) => {
   return (
-    <div className="updates">
+    <div className="">
       <h2>This is the Updates component</h2>
     </div>
   );

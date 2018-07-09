@@ -6,7 +6,7 @@ import Speaker from "./Speaker";
 const SpeakerList = props => {
   const SpeakerList = speakers.filter(item => item.isSpeaker == true)
     .map(item => <Speaker key={item.id} {...item} />);
-  return <ul className="snippet-list">{SpeakerList}</ul>;
+  return <ul className="card-speakers">{SpeakerList}</ul>;
 };
 
 export default SpeakerList;

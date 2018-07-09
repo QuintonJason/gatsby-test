@@ -1,0 +1,22 @@
+.card-speakers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+}
+
+.card-speaker {
+  grid-template-areas:
+    "speaker-info speaker-image"
+    "speaker-body speaker-body";
+}
+
+.card-speaker__info {
+  grid-area: speaker-info;
+}
+
+.card-speaker__image {
+  grid-area: speaker-image;
+}
+
+.card-speaker__body {
+  grid-area: speaker-body;
+}

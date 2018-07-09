@@ -1,24 +1,21 @@
 .card {
-
-}
-
-.card-speaker {
   background: var(--color-blue-dark);
 }
 
 .card__headline {
-  color: var(--color-white);
+  color: var(--color-orange);
 }
 
 .card__title {
+  color: var(--color-white);
 }
 
-.card__speak-track {
-
+.card__speaker-track {
+  color: var(--color-white);
 }
 
 .card__time {
-
+  color: var(--color-white);
 }
 
 .card__image {

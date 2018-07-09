@@ -62,7 +62,7 @@ export default class Header extends Component {
           <NavLink to="/conference/" className="header__link">
             Conference
           </NavLink>
-          <NavLink to="/spnosors-partners/" className="header__link">
+          <NavLink to="/sponsors-partners/" className="header__link">
             Sponsors & Partners
           </NavLink>
           <NavLink to="/updtes/" className="header__link">

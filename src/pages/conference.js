@@ -1,8 +1,11 @@
 import React from "react";
 
+import SpeakerList from "../components/SpeakerList";
+
 const Conference = props => {
   return (
     <div className="">
+      <SpeakerList />
       <h2 className="t-page-eyebrow">Day 3</h2>
       <h1 className="t-page-title">Conference</h1>
       <p className="t-lead">Saturday, February 24 | 9:00 AM - 6:00 PM</p>

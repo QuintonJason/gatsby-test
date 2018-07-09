@@ -1,9 +1,18 @@
 import React from "react";
 
+import SponsorList from "../components/SponsorList";
+
 const Sponsors = props => {
   return (
     <div className="">
-      <h2>This is the Sponsors component</h2>
+      {/*Create is title component
+      Create is workshop sponsor component
+      Create is hackathon sponsor component
+      Create is sponsor component
+      Create is in-kind sponsor component
+      Create is community sponsor component
+      Create is partner component*/}
+      <SponsorList />
     </div>
   );
 };

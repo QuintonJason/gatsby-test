@@ -3,12 +3,13 @@ import React from "react";
 const Speaker = props => {
   const { id, name, title, description, slot, track, image, isWorkshop } = props;
   return (
-    <li className="speaker-wrapper">
-      <a data-id={props.id} href={`#0`}>
-        <h3>{props.name}</h3>
-        <h3>{props.title}</h3>
-        {/* <p>{props.caption}</p> */}
-      </a>
+    <li className="card card-speaker">
+      <h3 className="t-section-headline card__headline">{props.name}</h3>
+      <p className="t-body card__title">{props.title}</p>
+      <span className="t-body card__speaker-track">{props.track}</span>
+      <p className="t-body card__time">{props.slot}</p>
+      <img className="card__image" src={props.image}/>
+      <p class="t-body-small card__description">{props.description}</p>
     </li>
   );
 };

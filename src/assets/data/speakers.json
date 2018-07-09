@@ -6,7 +6,7 @@
     "description": "Why JavaScript? It’s everywhere. There is a large community and tons of career opportunities. Also, It's Fun! Why p5.js for game development? p5.js is a JavaScript library that starts with the goal to make coding accessible for artists, designers, educators, and beginners. Also, It's Fun!",
     "slot": "10:30 am - 11:30 am",
     "track": "student",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/keish-perkins.jpg",
     "isSpeaker": true,
     "isWorkshop": false
   },
@@ -17,7 +17,7 @@
     "description": "The best product shops in the world such as Google, Tesla, AirBnB and Apple have built teams that are comprised of designers, project managers, researchers, anthropologists, storytellers and developers with a single end in mind — to create a beautiful experience for their users. To be a great developer you must also think like a designer. Not in terms of colors and fonts, but in terms of empathy. You must understanding how users interact with your product and how their interactions shape the way you build. User Experience (UX) Design is a fundamental tool in a great developer's toolkit.",
     "slot": "11:45 AM - 12:45 PM",
     "track": "student",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/jacob-jolibois.jpg",
     "isSpeaker": true,
     "isWorkshop": false
   },
@@ -28,7 +28,7 @@
     "description": "Imagine that you've just sent a tweet. You wrote some text on your phone, hit a button, and 'magically' hundreds, thousands, or millions of users around the world can see that message on their phones. That 'magic' is what back-end systems do. In this talk we will discuss some of the components, design considerations, and tools we use to build these types of systems.",
     "slot": "2:00PM - 3:00PM",
     "track": "student",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/Jonathan-Biguenet.jpg",
     "isSpeaker": true,
     "isWorkshop": false
   },
@@ -39,7 +39,7 @@
     "description": "You’re graduating school and about to start your career in technology. What happens next? In this talk, I’ll share the things I wish I knew about making the transition from the classroom to the workplace. We’ll discuss some of the issues you may face and some actions you can take to make the switch and maximize your career potential.",
     "slot": "3:15 PM - 4:15 PM",
     "track": "student",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/matt-catrett.jpg",
     "isSpeaker": true,
     "isWorkshop": false
   },
@@ -50,7 +50,7 @@
     "description": "Let's discuss Augmented Reality and Virtual Reality. Topics include the mix reality spectrum, augmented reality platforms, such as Vuforia and Apple's ARKit, and virtual reality headsets. Tune in for real-world applications, VR games, and all around fun.",
     "slot": "10:30 AM - 11:30 AM",
     "track": "profesional",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/morgan-krutz.jpg",
     "isSpeaker": true,
     "isWorkshop": false
   },
@@ -61,7 +61,7 @@
     "description": "The divide between design and development can be vast. Designers lob something over the wall for development without knowledge or perspective of technical limitations, and developers are left to sort out requirements and edge cases. No one is satisfied when designers' visions aren't implemented or developers are expected to explain why something can't be built. It doesn't have to be this way. This talk will introduce solutions you can implement on your team to bridge the divide and do your best work. Using an internal project at Rackspace as a case study, Glynnis will talk about why upfront planning, identifying the problem before agreeing on a solution, and cross-disciplinary collaboration are crucial to successful projects.",
     "slot": "11:45 AM - 12:45 PM",
     "track": "professional",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/glynnis-ritchie_180116_023733.jpg",
     "isSpeaker": true,
     "isSpeaker": true,
     "isWorkshop": false
@@ -73,7 +73,7 @@
     "description": "Functional programming, concurrency, and fault tolerance helped scale apps like WhatsApp, Bleacher Report and others to millions of users with a small team on minimal hardware. Find out how Elixir, a relatively new language with a modern syntax, can help you build highly-performant, planet-scale web apps by leveraging over thirty years of proven, battle-tested technology.",
     "slot": "2:00 PM - 3:00 PM",
     "track": "professional",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/logan-leger.jpg",
     "isSpeaker": true,
     "isWorkshop": false
   },
@@ -84,7 +84,7 @@
     "description": "Help! My app bundle is 5MB! My users are angry that my app is so slow! It’s easy to forget that performance matters when we are under pressure to deliver features quickly. What things should we always do versus only do when performance is slow? What data should we use to inform our decisions? From code splitting, lazy loading, and tree shaking to image optimization and store architecture, come learn how you can deliver a better experience to your users with high-performing front-end apps. This talk uses Webpack and ES6 but is library-agnostic (React, Angular, Vue, etc.).",
     "slot": "3:15 PM - 4:15 PM",
     "track": "professional",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/sia-karamalegos.jpg",
     "isSpeaker": true,
     "isWorkshop": false
   },
@@ -95,7 +95,7 @@
     "description": "",
     "slot": "",
     "track": "",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/michael-alford.jpg",
     "isSpeaker": false,
     "isWorkshop": false
   },
@@ -106,7 +106,7 @@
     "description": "",
     "slot": "",
     "track": "",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/205/mayor-broome.jpg",
     "isSpeaker": false,
     "isWorkshop": false
   },
@@ -117,7 +117,7 @@
     "description": "P5 is modular with several libraries that add functionality for the DOM, speech recognition and even music creation. It allows you to quickly make a pretty cool game and doesn’t do so much abstracting that you aren’t actually writing JavaScript anymore. It is a framework perfect for beginners. I love it because it is designed to make coding accessible to anyone. With just two lines of code, you can have an interactive webtoy on the HTML canvas. I will briefly show some examples of things built using p5 and its add-on libraries.",
     "slot": "1:00 PM - 2:30 PM",
     "track": "student",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/keish-perkins.jpg",
     "isSpeaker": false,
     "isWorkshop": true
   },
@@ -128,7 +128,7 @@
     "description": "We’ll cover what you need to know about relational databases entering a career in development, including the different kinds of databases, terminology when entering the workforce, the basics of backups, indexes, and TSQL syntax, and an interactive relational database design exercise.",
     "slot": "2:45 PM - 4:15 PM",
     "track": "student",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/william-assaf.jpg",
     "isSpeaker": false,
     "isWorkshop": true
   },
@@ -139,7 +139,7 @@
     "description": "We’ll walk through the newest features introduced in SQL Server 2016 and 2017, and do some dives specifically into isolation and indexing for performance. We’ll review the latest time-saving syntax improvements, bring your developing on SQL Server skillset up to date, and take time for questions.",
     "slot": "4:30 PM - 6:00 PM",
     "track": "professional",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/william-assaf.jpg",
     "isSpeaker": false,
     "isWorkshop": true
   },
@@ -150,7 +150,7 @@
     "description": "Cover the history of the web in a dynamic fashion. This talk goes over the founding of HTML, CSS, and Javascript by looking at primary sources, reviews the browser wars, and makes predictions based on past trends. In order to truly conquer something, you must understand why it exists in the first place. Why is HTML so awkward for application development? Why does CSS seem like an afterthought? Why does Javascript feel so just...half-baked? This talk examines the origins of the Web’s foundational technologies in a historical context and presents a forecast of what we might hope to see in the future.",
     "slot": "6:15 PM - 7:45 PM",
     "track": "professional",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/george-mauer.jpg",
     "isSpeaker": false,
     "isWorkshop": true
   },
@@ -161,7 +161,7 @@
     "description": "Everyone at one point or another has thought 'It would be cool to feed my pet a treat using my smartphone from anywhere in the world.' Ok, almost everyone. Even so, you may have noticed a rising trend where modest inventors and tinkerers are finding clever ways to hack their way around life's obstacles. Participants will be taken through a fast-paced tour of electronics and physical computing. You will leave the workshop understanding that it's much easier than you realized to get started and find support in the world of electronics. We will cover several different popular and engaging technologies and a host of resources that are available to any maker at any skill level.",
     "slot": "1:00 PM - 2:30 PM",
     "track": "student",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/rhett-clement.jpg",
     "isSpeaker": false,
     "isWorkshop": true
   },
@@ -172,7 +172,7 @@
     "description": "This workshop will provide an introduction to Python for data analysis. Topics will include Jupyter Notebook, reading datasets, connecting to JSON feeds, and popular Python analytics packages such as Pandas.",
     "slot": "2:45 PM - 4:15 PM",
     "track": "professional",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/james-davis.jpg",
     "isSpeaker": false,
     "isWorkshop": true
   },
@@ -183,7 +183,7 @@
     "description": "Build a quick video game and learn the basics of programming. A brief introduction to the Game Maker Programming Language (GML). This was done in Gamemaker Studio II. This helps students connect STEM-related studies to an entertainment field of interest. This is an exercise where we introduce younger students to computational thinking, simple geometry and a little bit of physics. It is inspired by the classic arcade game Asteroids.",
     "slot": "4:30 PM - 6:00 PM",
     "track": "student",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/marc-aubanel.jpg",
     "isSpeaker": false,
     "isWorkshop": true
   },
@@ -194,7 +194,7 @@
     "description": "The average digital marketing spend for businesses predicted to reach $118 billion by 2021. But just understanding the possible value of digital marketing isn’t enough—you must measure marketing metrics and analytical data to determine you’re your marketing ROI and identify new opportunities for growth.",
     "slot": "6:15 PM - 7:45 PM",
     "track": "professional",
-    "image": "https://scontent-dft4-3.cdninstagram.com/vp/022ac502902ca9d940a8e930e2ec911a/5B234B8F/t51.2885-15/e35/24838206_134453903908049_5233904935690567680_n.jpg",
+    "image": "http://www.activateconf.com/assets/uploads/general/feature/_square/jordan-neustrom.jpg",
     "isSpeaker": false,
     "isWorkshop": true
   }

@@ -5,10 +5,11 @@ This will be the Gatsby boilerplate for future Activate Sites
  - [ ] update type scale
  - [ ] verify all production fonts
  - [ ] create cards css
- - [ ] create json file for speaker data
- - [ ] create json file for sponsor data
- - [ ] show speaker data on workshow / conference page
- - [ ] show sponsor data on sponsor page
+ - [x] create json file for speaker data
+ - [x] create json file for sponsor data
+ - [x] show speaker data on workshow / conference page
+ - [x] show sponsor data on sponsor page
+ - [ ] create component / model for page headers
 
 ## Running in development
 `gatsby develop`

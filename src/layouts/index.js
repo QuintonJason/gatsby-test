@@ -3,6 +3,11 @@ import PropTypes from "prop-types";
 import Link from "gatsby-link";
 import Helmet from "react-helmet";
 
+// FONTS
+import '../assets/fonts/Panton-Light.otf'
+import '../assets/fonts/Panton-Regular.otf'
+import '../assets/fonts/Panton-SemiBold.otf'
+
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
@@ -51,7 +56,7 @@ const TemplateWrapper = ({ children }) => (
       <meta name="theme-color" content="#00c200" />
     </Helmet>
     <Header />
-    <div
+    <main className="l-main"
       style={{
         // margin: '0 auto',
         // maxWidth: 960,
@@ -60,13 +65,13 @@ const TemplateWrapper = ({ children }) => (
       }}
     >
       {children()}
-    </div>
+    </main>
     <Footer />
   </div>
 );
 
 TemplateWrapper.propTypes = {
-  children: PropTypes.func
+  children: PropTypes.node
 };
 
 export default TemplateWrapper;

@@ -14,13 +14,18 @@
   border-radius: .25rem;
 }
 
+.card-speaker__headline {
+  margin-top: .5rem;
+}
+
 .card-speaker__info {
   padding-right: 1.25rem;
   padding-bottom: 1.25rem;
   grid-area: speaker-info;
 
-  p {
+  .t-body {
     margin-bottom: 1rem;
+    display: flex;
   }
 }
 

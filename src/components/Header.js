@@ -65,12 +65,13 @@ export default class Header extends Component {
           <NavLink to="/sponsors-partners/" className="header__link">
             Sponsors & Partners
           </NavLink>
-          <NavLink to="/updtes/" className="header__link">
+          <NavLink to="/updates/" className="header__link">
             Updates
           </NavLink>
-          <a href="#0" className="header__link">FB</a>
-          <a href="#0" className="header__link">IG</a>
-          <a href="#0" className="header__link">TW</a>
+          <a href="https://www.picatic.com/140837" rel="noopener" className="header__link">Register</a>
+          <a href="#0" rel="noopener" className="header__link">FB</a>
+          <a href="#0" rel="noopener" className="header__link">IG</a>
+          <a href="#0" rel="noopener" className="header__link">TW</a>
         </nav>
       </header>
     );

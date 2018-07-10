@@ -13,7 +13,7 @@ const Sponsors = props => {
       Create is community sponsor component
       Create is partner component*/}
       <section className="masthead">
-        <header className="masthead__heading">
+        <header className="masthead__heading l-container">
           <h1 className="t-display masthead__headline">Sponsors & Partners</h1>
           <p className="t-body masthead__body">The companies and organizations that make this event possible. </p>
         </header>

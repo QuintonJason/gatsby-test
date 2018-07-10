@@ -22,8 +22,17 @@
 .header__link {
   text-transform: uppercase;
   color: var(--color-text-primary);
+  border: 1px solid transparent;
   @media (min-width: 992px) {
-    padding-right: .5rem;
-    padding-left: .5rem;
+    padding: .5rem;
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    color: var(--color-hover-text-gray);
+  }
+  &:focus {
+    border-color: var(--color-hover-text-gray);
   }
 }

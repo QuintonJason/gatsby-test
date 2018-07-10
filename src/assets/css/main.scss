@@ -1,0 +1,29 @@
+.l-main {
+  background-color: var(--color-teal);
+}
+
+.main-content {
+  padding-top: 3rem;
+  padding-bottom: 4.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media (min-width: 576px) {
+    padding-right: 20px;
+    padding-left: 20px;
+    max-width: 540px;
+  }
+  @media (min-width: 768px) {
+    padding-right: 40px;
+    padding-left: 40px;
+    max-width: 720px;
+  }
+  @media (min-width: 992px) {
+    padding-right: 80px;
+    padding-left: 80px;
+    max-width: 960px;
+  }
+  @media (min-width: 1200px) {
+    max-width: 1140px;
+  }
+}

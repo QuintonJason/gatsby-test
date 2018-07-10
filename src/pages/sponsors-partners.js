@@ -4,7 +4,7 @@ import SponsorList from "../components/SponsorList";
 
 const Sponsors = props => {
   return (
-    <div className="">
+    <div className="main-content">
       {/*Create is title component
       Create is workshop sponsor component
       Create is hackathon sponsor component

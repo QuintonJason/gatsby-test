@@ -4,10 +4,10 @@ import WorkshopList from "../components/WorkshopList";
 
 const Workshops = props => {
   return (
-    <div className="">
+    <div className="main-content">
       <WorkshopList />
     </div>
   );
 };
 
-export default WorkshopList;
+export default Workshops;
